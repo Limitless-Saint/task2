@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "I see each page I want is its own RMD file",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-27T22:29:15-05:00"
+    },
+    {
+      "path": "CV_Page.html",
+      "title": "CV Page",
+      "description": "My CV\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-27T22:29:17-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "St. C",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Cleeze's Palace\r\n          \r\n          \r\n          Home\r\n          About\r\n          CV Direct\r\n          Projects\r\n          CV Pdf\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              St. C\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bio\r\n            Golazo alli mira ve!\r\n            \r\n            \r\n            Education\r\n            Massachusetts Institute of Technology | Cambridge, MA\r\n            Ph.D. in Computer Science | September 2009 - May 2014\r\n            The University of California, Berkeley | Berkeley, CA\r\n            B.S. in Computer Science | September 2005 - May 2009\r\n            \r\n            \r\n            Experience\r\n            Google Brain | Principal Investigator | January 2018 - Present\r\n            Netflix | Research Scientist | June 2014 - December 2017\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              St. C\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              Golazo alli mira ve!\r\n              \r\n              \r\n              Education\r\n              Massachusetts Institute of Technology | Cambridge, MA\r\n              Ph.D. in Computer Science | September 2009 - May 2014\r\n              The University of California, Berkeley | Berkeley, CA\r\n              B.S. in Computer Science | September 2005 - May 2009\r\n              \r\n              \r\n              Experience\r\n              Google Brain | Principal Investigator | January 2018 - Present\r\n              Netflix | Research Scientist | June 2014 - December 2017\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-02-27T22:29:18-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "St. C Projects Page",
+      "description": "A new article created w/ distill to be used when I create my page.\n",
+      "author": [
+        {
+          "name": "Shawn Carter",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-27T22:29:22-05:00"
+    }
+  ],
+  "collections": []
+}

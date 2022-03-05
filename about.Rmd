@@ -1,0 +1,10 @@
+---
+title: "I see each page I want is its own RMD file"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

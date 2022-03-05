@@ -1,0 +1,27 @@
+name: "It's Ya Boy!!!"
+title: "Cleeze's Palace"
+description: |
+  Teh One and Only
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV Direct"
+      href: CV_Page.html
+    - text: "Projects"
+      href: projects.html
+    - text: "CV Pdf"
+      href: pdfs/TorontoHydro_22-08-18.pdf
+    - icon: fa fa-github
+      href: https://github.com/Limitless-Saint
+    - icon: fa fa-twitter
+      href: www.twitter.com/Limitless_Saint
+    - icon: fa fa-envelope
+      href: mailto:yaboy@utoronto.ca
+    - icon: fa fa-paper-plane
+      href: mailto:yaboy2@utoronto.ca
+output: distill::distill_article
+ 
